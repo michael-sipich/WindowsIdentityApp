@@ -1,0 +1,7 @@
+C:\WindowsIdentity\WindowsIdentityApp\WindowsIdentityApp\bin\Debug\WindowsIdentityApp.exe.config
+C:\WindowsIdentity\WindowsIdentityApp\WindowsIdentityApp\bin\Debug\WindowsIdentityApp.exe
+C:\WindowsIdentity\WindowsIdentityApp\WindowsIdentityApp\bin\Debug\WindowsIdentityApp.pdb
+C:\WindowsIdentity\WindowsIdentityApp\WindowsIdentityApp\obj\Debug\WindowsIdentityApp.csproj.CoreCompileInputs.cache
+C:\WindowsIdentity\WindowsIdentityApp\WindowsIdentityApp\obj\Debug\WindowsIdentityApp.exe
+C:\WindowsIdentity\WindowsIdentityApp\WindowsIdentityApp\obj\Debug\WindowsIdentityApp.pdb
+C:\WindowsIdentity\WindowsIdentityApp\WindowsIdentityApp\obj\Debug\WindowsIdentityApp.csprojAssemblyReference.cache
